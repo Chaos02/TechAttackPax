@@ -1413,14 +1413,6 @@
       }
     },
     {
-      "projectID": 349559,
-      "fileID": 3856246,
-      "required": true,
-      "__meta": {
-        "name": "FallingTree (Forge&Fabric)"
-      }
-    },
-    {
       "projectID": 350006,
       "fileID": 3771412,
       "required": true,
@@ -1802,14 +1794,6 @@
       "__meta": {
         "name": "Pig Pen Cipher",
         "explicit": false
-      }
-    },
-    {
-      "projectID": 396847,
-      "fileID": 3683914,
-      "required": true,
-      "__meta": {
-        "name": "Rapid Leaf Decay"
       }
     },
     {
@@ -2489,6 +2473,14 @@
       }
     },
     {
+      "projectID": 526854,
+      "fileID": 3706539,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Forge)"
+      }
+    },
+    {
       "projectID": 531320,
       "fileID": 3863333,
       "required": true,
@@ -2763,6 +2755,14 @@
       "required": true,
       "__meta": {
         "name": "Heartstone"
+      }
+    },
+    {
+      "projectID": 574856,
+      "fileID": 3884715,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium"
       }
     },
     {
