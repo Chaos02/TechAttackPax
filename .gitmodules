@@ -1,0 +1,6 @@
+[submodule ".\\modpack\\overrides\\PackInstaller"]
+	path = .\\modpack\\overrides\\PackInstaller
+	url = https://github.com/Chaos02/PackInstaller
+[submodule "modpack/overrides/PackInstaller"]
+	path = modpack/overrides/PackInstaller
+	url = https://github.com/Chaos02/PackInstaller
