@@ -22,7 +22,7 @@
 	#Will the window show on top of all other windows? Recommended to keep set to True.
 	"#2) Display message box topmost?" = true
 	#The text that will be displayed in the message box.
-	"#3) Message Box Text" = "Welcome to TechAttack. Thank you for installing TechAttack!\n To integrate this modpack into the Minecraft launcher, please run the PowerShell script (.ps1) included with the pack!"
+	"#3) Message Box Text" = "Welcome to TechAttack. Thank you for installing TechAttack!\n To integrate this modpack into the Minecraft launcher, please run the PowerShell script in the PackInstaller folder!"
 
 ["Open A Website when the Game Starts"]
 	#Opens a webpage when the game starts. This is useful for modpack support.
