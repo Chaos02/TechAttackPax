@@ -1401,6 +1401,14 @@
       }
     },
     {
+      "projectID": 327968,
+      "fileID": 3681801,
+      "required": true,
+      "__meta": {
+        "name": "GoProne"
+      }
+    },
+    {
       "projectID": 328085,
       "fileID": 3872145,
       "required": true,
@@ -2262,11 +2270,35 @@
       }
     },
     {
+      "projectID": 428204,
+      "fileID": 3820276,
+      "required": true,
+      "__meta": {
+        "name": "Ex Nihilo: Sequentia - AE2 Addon",
+        "dependencies": [
+          400012,
+          223794
+        ]
+      }
+    },
+    {
       "projectID": 429235,
       "fileID": 3767288,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Forge)"
+      }
+    },
+    {
+      "projectID": 430787,
+      "fileID": 3821806,
+      "required": true,
+      "__meta": {
+        "name": "Ex Nihilo: Sequentia - Mekanism Addon",
+        "dependencies": [
+          268560,
+          400012
+        ]
       }
     },
     {
@@ -2376,6 +2408,18 @@
           309927,
           301051,
           243121
+        ]
+      }
+    },
+    {
+      "projectID": 445226,
+      "fileID": 3821930,
+      "required": true,
+      "__meta": {
+        "name": "Ex Nihilo: Sequentia - Thermal Addon",
+        "dependencies": [
+          400012,
+          222880
         ]
       }
     },
@@ -3430,6 +3474,17 @@
       "required": true,
       "__meta": {
         "name": "Fastload"
+      }
+    },
+    {
+      "projectID": 631523,
+      "fileID": 3910314,
+      "required": true,
+      "__meta": {
+        "name": "Ex Machinis",
+        "dependencies": [
+          400012
+        ]
       }
     },
     {
