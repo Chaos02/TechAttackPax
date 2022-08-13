@@ -5,6 +5,8 @@ This Modpack is my personal choice of Minecraft mods.
 
 It Contains many, if not all tech mods for 1.18 and many more such as magic mods, many improvements to the game, and other utilities.
 
+![PackMenu.png](https://i.imgur.com/IVHQDmv.png)
+
 ## System requirements (usable for minecraft):
 **MINIMUM:**
 - 5GB RAM
