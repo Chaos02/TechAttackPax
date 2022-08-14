@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["PureBDcraft 128x MC118.zip", "file/TechAttack BDCraft GUI.zip", "file/TechAttack BDCraft x64.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

@@ -17,7 +17,7 @@
   "files": [
     {
       "projectID": 32274,
-      "fileID": 3927228,
+      "fileID": 3820040,
       "required": true,
       "__meta": {
         "name": "JourneyMap"
@@ -103,7 +103,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 3827434,
+      "fileID": 3759236,
       "required": true,
       "__meta": {
         "name": "Biomes O' Plenty",
@@ -194,7 +194,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3916521,
+      "fileID": 3900932,
       "required": true,
       "__meta": {
         "name": "Bookshelf",
@@ -344,7 +344,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3904349,
+      "fileID": 3885885,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -646,7 +646,7 @@
     },
     {
       "projectID": 250419,
-      "fileID": 3877208,
+      "fileID": 3821023,
       "required": true,
       "__meta": {
         "name": "Enchantment Descriptions"
@@ -1122,7 +1122,7 @@
     },
     {
       "projectID": 290209,
-      "fileID": 3783991,
+      "fileID": 3932611,
       "required": true,
       "__meta": {
         "name": "RFTools Power",
@@ -1153,7 +1153,7 @@
     },
     {
       "projectID": 291874,
-      "fileID": 3804257,
+      "fileID": 3693807,
       "required": true,
       "__meta": {
         "name": "Serene Seasons"
@@ -1240,7 +1240,7 @@
     },
     {
       "projectID": 306549,
-      "fileID": 3890160,
+      "fileID": 3836415,
       "required": true,
       "__meta": {
         "name": "Tips",
@@ -1328,7 +1328,7 @@
     },
     {
       "projectID": 316582,
-      "fileID": 3829457,
+      "fileID": 3694258,
       "required": true,
       "__meta": {
         "name": "Corpse"
@@ -2188,7 +2188,7 @@
     },
     {
       "projectID": 412525,
-      "fileID": 3909225,
+      "fileID": 3829113,
       "required": true,
       "__meta": {
         "name": "LibX",
@@ -2219,7 +2219,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3930681,
+      "fileID": 3923198,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -2255,7 +2255,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3914048,
+      "fileID": 3931811,
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks"
@@ -2351,7 +2351,7 @@
     },
     {
       "projectID": 439890,
-      "fileID": 3876683,
+      "fileID": 3932501,
       "required": true,
       "__meta": {
         "name": "Create Crafts & Additions",
@@ -2643,7 +2643,7 @@
     },
     {
       "projectID": 491890,
-      "fileID": 3924365,
+      "fileID": 3931285,
       "required": true,
       "__meta": {
         "name": "Etched",
@@ -2687,14 +2687,6 @@
       "required": true,
       "__meta": {
         "name": "Forgotten Recipes - Sculk Sensor, Bundle, Leather and Powder Snow Recipe"
-      }
-    },
-    {
-      "projectID": 499261,
-      "fileID": 3838741,
-      "required": true,
-      "__meta": {
-        "name": "AgriCraft OptiFine Compat"
       }
     },
     {
@@ -3400,7 +3392,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 3909159,
+      "fileID": 3931794,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core"
