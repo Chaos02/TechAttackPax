@@ -236,7 +236,7 @@
     },
     {
       "projectID": 231951,
-      "fileID": 3901176,
+      "fileID": 3934812,
       "required": true,
       "__meta": {
         "name": "Immersive Engineering"
@@ -328,6 +328,7 @@
       "__meta": {
         "name": "Integrated Dynamics",
         "explicit": false,
+        "pinned": true,
         "dependencies": [
           247007,
           232758
@@ -1415,6 +1416,7 @@
       "__meta": {
         "name": "Create",
         "explicit": false,
+        "pinned": true,
         "dependencies": [
           486392
         ]
@@ -2638,7 +2640,8 @@
       "required": true,
       "__meta": {
         "name": "Flywheel",
-        "explicit": false
+        "explicit": false,
+        "pinned": true
       }
     },
     {
@@ -3136,7 +3139,7 @@
     },
     {
       "projectID": 568563,
-      "fileID": 3855211,
+      "fileID": 3935344,
       "required": true,
       "__meta": {
         "name": "Entity Texture Features - [Fabric & Forge]"
