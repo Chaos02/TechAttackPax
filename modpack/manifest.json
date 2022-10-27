@@ -315,12 +315,11 @@
     },
     {
       "projectID": 236307,
-      "fileID": 3900735,
+      "fileID": 3993501,
       "required": true,
       "__meta": {
         "name": "Integrated Dynamics",
         "explicit": false,
-        "pinned": true,
         "dependencies": [
           247007,
           232758
@@ -1403,12 +1402,11 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3872145,
+      "fileID": 4007544,
       "required": true,
       "__meta": {
         "name": "Create",
         "explicit": false,
-        "pinned": true,
         "dependencies": [
           486392
         ]
@@ -1772,8 +1770,7 @@
       "__meta": {
         "name": "Repurposed Structures (Forge)",
         "dependencies": [
-          560323,
-          546841
+          560323
         ]
       }
     },
@@ -1895,7 +1892,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 4050716,
+      "fileID": 4052299,
       "required": true,
       "__meta": {
         "name": "GeckoLib",
@@ -2065,6 +2062,7 @@
       "required": true,
       "__meta": {
         "name": "Ars Nouveau",
+        "pinned": true,
         "dependencies": [
           388172,
           309927,
@@ -2628,12 +2626,11 @@
     },
     {
       "projectID": 486392,
-      "fileID": 3871082,
+      "fileID": 3934664,
       "required": true,
       "__meta": {
         "name": "Flywheel",
-        "explicit": false,
-        "pinned": true
+        "explicit": false
       }
     },
     {
@@ -2903,15 +2900,6 @@
         "dependencies": [
           544350
         ]
-      }
-    },
-    {
-      "projectID": 546841,
-      "fileID": 3989542,
-      "required": true,
-      "__meta": {
-        "name": "No Null Processors",
-        "explicit": false
       }
     },
     {
