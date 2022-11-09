@@ -162,17 +162,6 @@
       }
     },
     {
-      "projectID": 225635,
-      "fileID": 3883933,
-      "required": true,
-      "__meta": {
-        "name": "AgriCraft",
-        "dependencies": [
-          251396
-        ]
-      }
-    },
-    {
       "projectID": 225643,
       "fileID": 3936568,
       "required": true,
@@ -710,15 +699,6 @@
       }
     },
     {
-      "projectID": 251396,
-      "fileID": 3883932,
-      "required": true,
-      "__meta": {
-        "name": "InfinityLib",
-        "explicit": false
-      }
-    },
-    {
       "projectID": 251407,
       "fileID": 3666468,
       "required": true,
@@ -735,14 +715,6 @@
       "required": true,
       "__meta": {
         "name": "Simply Jetpacks 2"
-      }
-    },
-    {
-      "projectID": 252818,
-      "fileID": 3831578,
-      "required": true,
-      "__meta": {
-        "name": "Dynamic Trees"
       }
     },
     {
@@ -1133,18 +1105,6 @@
       }
     },
     {
-      "projectID": 289529,
-      "fileID": 3831458,
-      "required": true,
-      "__meta": {
-        "name": "Dynamic Trees - Biomes O' Plenty",
-        "dependencies": [
-          220318,
-          252818
-        ]
-      }
-    },
-    {
       "projectID": 290209,
       "fileID": 4008042,
       "required": true,
@@ -1345,19 +1305,6 @@
         "name": "Blue Skies",
         "dependencies": [
           378802
-        ]
-      }
-    },
-    {
-      "projectID": 313970,
-      "fileID": 4048830,
-      "required": true,
-      "__meta": {
-        "name": "Apotheosis",
-        "dependencies": [
-          306770,
-          283644,
-          250419
         ]
       }
     },
@@ -2666,17 +2613,6 @@
           306770,
           74924,
           74072
-        ]
-      }
-    },
-    {
-      "projectID": 478155,
-      "fileID": 3832065,
-      "required": true,
-      "__meta": {
-        "name": "Dynamic Trees +",
-        "dependencies": [
-          252818
         ]
       }
     },
