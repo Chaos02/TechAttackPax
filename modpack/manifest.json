@@ -185,6 +185,14 @@
       }
     },
     {
+      "projectID": 227639,
+      "fileID": 3998681,
+      "required": true,
+      "__meta": {
+        "name": "The Twilight Forest"
+      }
+    },
+    {
       "projectID": 228525,
       "fileID": 3961347,
       "required": true,
@@ -327,6 +335,14 @@
       }
     },
     {
+      "projectID": 236879,
+      "fileID": 4072766,
+      "required": true,
+      "__meta": {
+        "name": "Telepad"
+      }
+    },
+    {
       "projectID": 237701,
       "fileID": 3834621,
       "required": true,
@@ -340,6 +356,14 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 238659,
+      "fileID": 3828235,
+      "required": true,
+      "__meta": {
+        "name": "Packing Tape"
       }
     },
     {
@@ -850,6 +874,14 @@
       }
     },
     {
+      "projectID": 267602,
+      "fileID": 3933537,
+      "required": true,
+      "__meta": {
+        "name": "ConnectedTexturesMod"
+      }
+    },
+    {
       "projectID": 268560,
       "fileID": 3875976,
       "required": true,
@@ -1248,6 +1280,17 @@
       "__meta": {
         "name": "Patchouli",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 307788,
+      "fileID": 3617200,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage: Requestify",
+        "dependencies": [
+          243076
+        ]
       }
     },
     {
@@ -1794,6 +1837,14 @@
       }
     },
     {
+      "projectID": 370696,
+      "fileID": 3816785,
+      "required": true,
+      "__meta": {
+        "name": "Refined Pipes"
+      }
+    },
+    {
       "projectID": 371813,
       "fileID": 3808085,
       "required": true,
@@ -1869,6 +1920,17 @@
       "__meta": {
         "name": "Structure Gel API",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 383669,
+      "fileID": 3429390,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage Fluxified",
+        "dependencies": [
+          243076
+        ]
       }
     },
     {
@@ -1986,12 +2048,36 @@
       }
     },
     {
+      "projectID": 395617,
+      "fileID": 3877708,
+      "required": true,
+      "__meta": {
+        "name": "Botanical Machinery",
+        "dependencies": [
+          225643,
+          412525
+        ]
+      }
+    },
+    {
       "projectID": 396234,
       "fileID": 3683674,
       "required": true,
       "__meta": {
         "name": "Pig Pen Cipher",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 396803,
+      "fileID": 3856620,
+      "required": true,
+      "__meta": {
+        "name": "Wormhole (Portals)",
+        "dependencies": [
+          454372,
+          438332
+        ]
       }
     },
     {
@@ -2306,6 +2392,14 @@
       }
     },
     {
+      "projectID": 433760,
+      "fileID": 3739668,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Animations"
+      }
+    },
+    {
       "projectID": 435044,
       "fileID": 3834420,
       "required": true,
@@ -2460,6 +2554,14 @@
       }
     },
     {
+      "projectID": 454487,
+      "fileID": 3876824,
+      "required": true,
+      "__meta": {
+        "name": "Online Detector"
+      }
+    },
+    {
       "projectID": 456640,
       "fileID": 3699151,
       "required": true,
@@ -2473,17 +2575,6 @@
       "required": true,
       "__meta": {
         "name": "Configured"
-      }
-    },
-    {
-      "projectID": 458048,
-      "fileID": 3777811,
-      "required": true,
-      "__meta": {
-        "name": "Diagonal Fences",
-        "dependencies": [
-          495476
-        ]
       }
     },
     {
@@ -2657,12 +2748,15 @@
       }
     },
     {
-      "projectID": 495476,
-      "fileID": 3804332,
+      "projectID": 494206,
+      "fileID": 3898041,
       "required": true,
       "__meta": {
-        "name": "Puzzles Lib",
-        "explicit": false
+        "name": "Create Chunkloading",
+        "dependencies": [
+          419699,
+          348521
+        ]
       }
     },
     {
@@ -2927,6 +3021,18 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Golems"
+      }
+    },
+    {
+      "projectID": 549381,
+      "fileID": 3989962,
+      "required": true,
+      "__meta": {
+        "name": "Compressed Creativity",
+        "dependencies": [
+          281849,
+          328085
+        ]
       }
     },
     {
@@ -3266,6 +3372,14 @@
       }
     },
     {
+      "projectID": 594709,
+      "fileID": 3844661,
+      "required": true,
+      "__meta": {
+        "name": "Luggage"
+      }
+    },
+    {
       "projectID": 596224,
       "fileID": 3812301,
       "required": true,
@@ -3390,6 +3504,14 @@
       }
     },
     {
+      "projectID": 625123,
+      "fileID": 4025992,
+      "required": true,
+      "__meta": {
+        "name": "Copper Overhaul"
+      }
+    },
+    {
       "projectID": 626708,
       "fileID": 4022684,
       "required": true,
@@ -3447,6 +3569,14 @@
       }
     },
     {
+      "projectID": 634571,
+      "fileID": 3903132,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Immersive Multiblocks"
+      }
+    },
+    {
       "projectID": 636827,
       "fileID": 3856450,
       "required": true,
@@ -3458,6 +3588,29 @@
       }
     },
     {
+      "projectID": 646668,
+      "fileID": 4033862,
+      "required": true,
+      "__meta": {
+        "name": "Create Big Cannons",
+        "dependencies": [
+          328085,
+          486392
+        ]
+      }
+    },
+    {
+      "projectID": 652202,
+      "fileID": 4041026,
+      "required": true,
+      "__meta": {
+        "name": "Create : Misc & Things",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
       "projectID": 654373,
       "fileID": 4033284,
       "required": true,
@@ -3465,6 +3618,46 @@
         "name": "Rubidium Extra",
         "dependencies": [
           574856
+        ]
+      }
+    },
+    {
+      "projectID": 656214,
+      "fileID": 4072918,
+      "required": true,
+      "__meta": {
+        "name": "CC:C Bridge",
+        "dependencies": [
+          328085,
+          282001
+        ]
+      }
+    },
+    {
+      "projectID": 656254,
+      "fileID": 4030680,
+      "required": true,
+      "__meta": {
+        "name": "Extra Utilities Reborn"
+      }
+    },
+    {
+      "projectID": 659838,
+      "fileID": 3956168,
+      "required": true,
+      "__meta": {
+        "name": "Create Experienced"
+      }
+    },
+    {
+      "projectID": 661938,
+      "fileID": 4019672,
+      "required": true,
+      "__meta": {
+        "name": "Create Sifting",
+        "dependencies": [
+          238222,
+          328085
         ]
       }
     },
@@ -3485,6 +3678,18 @@
       "required": true,
       "__meta": {
         "name": "Canary"
+      }
+    },
+    {
+      "projectID": 669724,
+      "fileID": 4010039,
+      "required": true,
+      "__meta": {
+        "name": "Create: Crystal Clear",
+        "dependencies": [
+          328085,
+          486392
+        ]
       }
     }
   ]
