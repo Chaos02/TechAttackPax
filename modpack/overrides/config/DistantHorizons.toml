@@ -21,7 +21,7 @@ optionsButton = true
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 160
+			lodChunkRenderDistance = 96
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
@@ -31,15 +31,15 @@ optionsButton = true
 			# HIGH: uses at max 8 columns per position. 
 			#
 			# Lowest Quality: LOW Highest Quality: HIGH
-			verticalQuality = "MEDIUM"
+			verticalQuality = "LOW"
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalScale = 16
+			horizontalScale = 14
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalQuality = "HIGH"
+			horizontalQuality = "MEDIUM"
 			# This determines how lod level drop off will be done. 
 			#
 			# SMOOTH_DROPOFF: 
@@ -51,7 +51,7 @@ optionsButton = true
 			#     Use SMOOTH_DROPOFF for less then 128 Lod render distance, 
 			#     or PERFORMANCE_FOCUSED otherwise. 
 			#
-			dropoffQuality = "AUTO"
+			dropoffQuality = "SMOOTH_DROPOFF"
 			# This is the same as vanilla Biome Blending settings for Lod area. 
 			#     Note that anything other than '0' will greatly effect Lod building time 
 			#     and increase triangle count. The cost on chunk generation speed is also 
@@ -61,7 +61,7 @@ optionsButton = true
 			#     '1' equals to Vanilla Biome Blending of '3x3', 
 			#     '2' equals to Vanilla Biome Blending of '5x5'... 
 			#
-			lodBiomeBlending = 0
+			lodBiomeBlending = 2
 
 		[client.graphics.fogQuality]
 			# At what distance should Fog be drawn on the fake chunks? 
@@ -275,7 +275,7 @@ optionsButton = true
 			# NOTE: Due to current limitations, the min value is 50 
 			# and the max value is 5000. Any values outside this range 
 			# will be set to 0(disabled).
-			earthCurveRatio = 500
+			earthCurveRatio = 300
 
 	[client.worldGenerator]
 		# Whether to enable Distant chunks generator? 
@@ -333,7 +333,7 @@ optionsButton = true
 		# BOTH: Only use full solid blocks when generating fake chunks 
 		#
 		# This wont't affect performance.
-		blocksToAvoid = "NO_COLLISION"
+		blocksToAvoid = "BOTH"
 
 	[client.multiplayer]
 		# What multiplayer save folders should be named. 
@@ -386,7 +386,7 @@ optionsButton = true
 			# so if they add up to more threads than your CPU has cores, 
 			# that shouldn't cause an issue. 
 			#
-			numberOfWorldGenerationThreads = 4.0
+			numberOfWorldGenerationThreads = 2.0
 			# How many threads are used when building vertex buffers? 
 			# (The things sent to your GPU to draw the fake chunks). 
 			#
@@ -485,7 +485,7 @@ optionsButton = true
 			# If you don't see any difference when changing these settings, or the world looks corrupted: 
 			# Restart the game to clear the old buffers. 
 			#
-			gpuUploadMethod = "AUTO"
+			gpuUploadMethod = "BUFFER_STORAGE_MAPPING"
 			# How long should a buffer wait per Megabyte of data uploaded?
 			# Helpful resource for frame times: https://fpstoms.com 
 			#
@@ -496,9 +496,9 @@ optionsButton = true
 			# Before changing this config, try changing "GPU Upload methods"
 			#  and determined the best method for your hardware first. 
 			#
-			gpuUploadPerMegabyteInMilliseconds = 0
+			gpuUploadPerMegabyteInMilliseconds = 40
 			# How frequently should vertex buffers (geometry) be rebuilt and sent to the GPU? 
 			# Higher settings may cause stuttering, but will prevent holes in the world 
 			#
-			rebuildTimes = "NORMAL"
+			rebuildTimes = "RARE"
 
