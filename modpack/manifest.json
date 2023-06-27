@@ -125,6 +125,18 @@
       }
     },
     {
+      "projectID": 223565,
+      "fileID": 4418000,
+      "required": true,
+      "__meta": {
+        "name": "Draconic Evolution",
+        "dependencies": [
+          242818,
+          231382
+        ]
+      }
+    },
+    {
       "projectID": 223794,
       "fileID": 4023502,
       "required": true,
@@ -221,6 +233,18 @@
       "required": true,
       "__meta": {
         "name": "Ding"
+      }
+    },
+    {
+      "projectID": 231382,
+      "fileID": 4426917,
+      "required": true,
+      "__meta": {
+        "name": "Brandon's Core",
+        "explicit": false,
+        "dependencies": [
+          242818
+        ]
       }
     },
     {
@@ -450,7 +474,7 @@
     },
     {
       "projectID": 242818,
-      "fileID": 4009409,
+      "fileID": 4607274,
       "required": true,
       "__meta": {
         "name": "CodeChicken Lib 1.8.+",
