@@ -18,8 +18,14 @@ It Contains many, if not all tech mods for 1.18 and many more such as magic mods
 - ~6 CPU cores
 - Recent Dedicated GPU **(** RX500 and up **|** GTX 1060 and up **)**
 
+### Expectable performance:
+| CPU                  | GPU               | RAM          | Launch Arguments | FPS AVG | FPS MIN |
+|----------------------|-------------------|--------------|------------------|---------|---------|
+| AMD Ryzen R7 5800X3D | AMD RX 6800       | 32GB 3200MHz | `-Xmx12G -Xms4G` | 400     | 40      |
+| Intel Core i7 4790k  | NVidea GTX 670 2G | 16GB 1600MHz | `-Xmx8G -Xms4G`  | 80      | 60      |
 
-### Tech Modlist:
+
+## Mod Highlights:
 > - [Applied Energistics 2](https://appliedenergistics.github.io/getting-started)
 > - [Refined Storage](https://refinedmods.com/refined-storage/wiki/getting-started.html)
 > - [Create](https://github.com/Creators-of-Create/Create/wiki/The-Basics-of-Rotation-in-Create) / [Create Stuff Additions](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)
