@@ -2162,15 +2162,6 @@
       }
     },
     {
-      "projectID": 405593,
-      "fileID": 3975599,
-      "required": true,
-      "__meta": {
-        "name": "ATO - All the Ores",
-        "explicit": false
-      }
-    },
-    {
       "projectID": 406959,
       "fileID": 4382347,
       "required": true,
@@ -3106,17 +3097,6 @@
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone",
         "explicit": false
-      }
-    },
-    {
-      "projectID": 560350,
-      "fileID": 3803801,
-      "required": true,
-      "__meta": {
-        "name": "All The Compatibility",
-        "dependencies": [
-          405593
-        ]
       }
     },
     {

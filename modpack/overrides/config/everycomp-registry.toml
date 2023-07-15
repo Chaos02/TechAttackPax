@@ -92,46 +92,18 @@
 	[leaves_type.ars_elemental]
 		yellow_archwood = true
 
-	[leaves_type.dynamictrees]
-		spruce = true
-		oak = true
-		jungle = true
-		dark_oak = true
-		birch = true
-		acacia = true
-
-	[leaves_type.dtbop]
-		yellow_autumn = true
-		willow = true
-		white_cherry = true
-		umbran = true
-		spruce_twiglet = true
-		spruce_poplar = true
-		sparse_oak = true
-		sparse_acacia = true
-		redwood = true
-		rainbow_birch = true
-		poplar = true
-		pink_cherry = true
-		palm = true
-		orange_autumn = true
-		oak_twiglet = true
-		mega_dark_oak = true
-		maple_twiglet = true
-		maple = true
-		mahogany = true
-		magic_poplar = true
-		jungle_twiglet = true
-		jacaranda = true
-		hellbark_bush = true
-		hellbark = true
-		flowering_oak = true
-		fir = true
-		dying = true
-		dark_poplar = true
-		dark_oak_twiglet = true
-		cypress_willow = true
-		acacia_twiglet = true
+	[leaves_type.twilightforest]
+		twilight_oak = true
+		canopy = true
+		mangrove = true
+		dark = true
+		time = true
+		transformation = true
+		mining = true
+		sorting = true
+		thorn = true
+		beanstalk = true
+		rainbow_oak = true
 
 [wood_type]
 
@@ -190,4 +162,17 @@
 	[wood_type.botania]
 		livingwood = true
 		dreamwood = true
+
+	[wood_type.extrautilitiesrebirth]
+		ferrous_juniper = true
+
+	[wood_type.twilightforest]
+		twilight_oak = true
+		canopy = true
+		mangrove = true
+		dark = true
+		time = true
+		transformation = true
+		mining = true
+		sorting = true
 
