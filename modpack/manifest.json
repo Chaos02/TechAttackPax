@@ -187,7 +187,7 @@
     },
     {
       "projectID": 227443,
-      "fileID": 4391159,
+      "fileID": 4382760,
       "required": true,
       "__meta": {
         "name": "Thermal Dynamics",
@@ -518,17 +518,6 @@
       "required": true,
       "__meta": {
         "name": "Reap Mod"
-      }
-    },
-    {
-      "projectID": 244830,
-      "fileID": 4469318,
-      "required": true,
-      "__meta": {
-        "name": "Advanced Chimneys",
-        "dependencies": [
-          244844
-        ]
       }
     },
     {
@@ -915,17 +904,6 @@
         "name": "Mekanism Tools",
         "dependencies": [
           268560
-        ]
-      }
-    },
-    {
-      "projectID": 269973,
-      "fileID": 4527123,
-      "required": true,
-      "__meta": {
-        "name": "Pollution of the Realms",
-        "dependencies": [
-          244844
         ]
       }
     },
