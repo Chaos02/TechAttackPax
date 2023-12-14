@@ -1903,17 +1903,6 @@
       }
     },
     {
-      "projectID": 383129,
-      "fileID": 4628989,
-      "required": true,
-      "__meta": {
-        "name": "Connected Glass",
-        "dependencies": [
-          454372
-        ]
-      }
-    },
-    {
       "projectID": 383669,
       "fileID": 3429390,
       "required": true,

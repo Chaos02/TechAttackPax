@@ -22,7 +22,7 @@
 	#Will the window show on top of all other windows? Recommended to keep set to True.
 	"#2) Display message box topmost?" = true
 	#The text that will be displayed in the message box.
-	"#3) Message Box Text" = "Welcome to TechAttack. Thank you for installing TechAttack!\n To integrate this modpack into the Minecraft launcher, please run the PowerShell script in the PackInstaller folder!"
+	"#3) Message Box Text" = "Welcome to TechAttack. Thank you for installing my Pack!\n If you want to integrate this modpack into the regular Minecraft launcher, you can run the PowerShell script in the PackInstaller folder!"
 
 ["Open A Website when the Game Starts"]
 	#Opens a webpage when the game starts. This is useful for modpack support.
@@ -70,7 +70,7 @@
 ["Game Launch Time Limit"]
 	#The maximum amount of time the game will be allowed to spend booting. (IN SECONDS)
 	#Range: 5 ~ 5400
-	"#1) Launch Timeout (IN SECONDS)" = 480
+	"#1) Launch Timeout (IN SECONDS)" = 500
 	#If the game exceeds the launch timeout then a messagebox will be displayed and the game will close.
 	"#2) Check game meets launch timeout?" = true
 	#Will the window show on top of all other windows? I highly recommend this is left as true.
