@@ -44,5 +44,5 @@
 	#Tools blacklisted from excavating
 	"Tool Blacklist" = []
 	#Blocks blacklisted from being excavated
-	"Block Blacklist" = ["forge:ores", "minecraft:sand", "forge:ore/*"]
+	"Block Blacklist" = ["tag:forge:ores", "tag:minecraft:logs", "tag:minecraft:leaves", "minecraft:sand", "minecraft:clay", "minecraft:gravel", "minecraft:soul_sand", "tag:minecraft:crops"]
 
