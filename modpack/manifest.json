@@ -1969,14 +1969,6 @@
       }
     },
     {
-      "projectID": 391187,
-      "fileID": 4761302,
-      "required": true,
-      "__meta": {
-        "name": "Enchant With Mob"
-      }
-    },
-    {
       "projectID": 391972,
       "fileID": 3669201,
       "required": true,
@@ -3875,11 +3867,31 @@
       }
     },
     {
+      "projectID": 866533,
+      "fileID": 4915509,
+      "required": true,
+      "__meta": {
+        "name": "Bagus Lib",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 882495,
       "fileID": 4616476,
       "required": true,
       "__meta": {
         "name": "fix GPU memory leak[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 913523,
+      "fileID": 4761302,
+      "required": true,
+      "__meta": {
+        "name": "Enchant With Mob",
+        "dependencies": [
+          866533
+        ]
       }
     }
   ]
