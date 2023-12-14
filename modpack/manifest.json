@@ -267,17 +267,6 @@
       }
     },
     {
-      "projectID": 232131,
-      "fileID": 4412630,
-      "required": true,
-      "__meta": {
-        "name": "Default Options",
-        "dependencies": [
-          531761
-        ]
-      }
-    },
-    {
       "projectID": 232650,
       "fileID": 3801916,
       "required": true,
@@ -561,14 +550,6 @@
         "dependencies": [
           242818
         ]
-      }
-    },
-    {
-      "projectID": 245733,
-      "fileID": 3556931,
-      "required": true,
-      "__meta": {
-        "name": "ToroHealth Damage Indicators"
       }
     },
     {
@@ -2428,14 +2409,6 @@
       }
     },
     {
-      "projectID": 433760,
-      "fileID": 3739668,
-      "required": true,
-      "__meta": {
-        "name": "Not Enough Animations"
-      }
-    },
-    {
       "projectID": 435044,
       "fileID": 4177087,
       "required": true,
@@ -2953,14 +2926,6 @@
       }
     },
     {
-      "projectID": 521480,
-      "fileID": 4001976,
-      "required": true,
-      "__meta": {
-        "name": "Skin Layers 3D (Fabric/Forge)"
-      }
-    },
-    {
       "projectID": 521590,
       "fileID": 3561221,
       "required": true,
@@ -3136,14 +3101,6 @@
       }
     },
     {
-      "projectID": 551736,
-      "fileID": 3817266,
-      "required": true,
-      "__meta": {
-        "name": "Magnesium/Rubidium Dynamic Lights"
-      }
-    },
-    {
       "projectID": 551894,
       "fileID": 4358571,
       "required": true,
@@ -3176,17 +3133,6 @@
       "required": true,
       "__meta": {
         "name": "Multiplayer Server Pause (Forge)"
-      }
-    },
-    {
-      "projectID": 558905,
-      "fileID": 3936081,
-      "required": true,
-      "__meta": {
-        "name": "Magnesium/Rubidium Extras",
-        "dependencies": [
-          574856
-        ]
       }
     },
     {
@@ -3290,14 +3236,6 @@
       }
     },
     {
-      "projectID": 568563,
-      "fileID": 4592403,
-      "required": true,
-      "__meta": {
-        "name": "Entity Texture Features - [Fabric & Forge]"
-      }
-    },
-    {
       "projectID": 570630,
       "fileID": 4105690,
       "required": true,
@@ -3334,14 +3272,6 @@
           223794,
           268560
         ]
-      }
-    },
-    {
-      "projectID": 574856,
-      "fileID": 4494903,
-      "required": true,
-      "__meta": {
-        "name": "Rubidium"
       }
     },
     {
@@ -3398,18 +3328,6 @@
       "required": true,
       "__meta": {
         "name": "Loot Integrations[Forge/Fabric]"
-      }
-    },
-    {
-      "projectID": 581495,
-      "fileID": 4354939,
-      "required": true,
-      "__meta": {
-        "name": "Oculus",
-        "pinned": true,
-        "dependencies": [
-          574856
-        ]
       }
     },
     {
@@ -3772,17 +3690,6 @@
       }
     },
     {
-      "projectID": 654373,
-      "fileID": 4513591,
-      "required": true,
-      "__meta": {
-        "name": "Rubidium Extra",
-        "dependencies": [
-          574856
-        ]
-      }
-    },
-    {
       "projectID": 656214,
       "fileID": 4072918,
       "required": true,
@@ -3812,17 +3719,6 @@
         "dependencies": [
           328085,
           238222
-        ]
-      }
-    },
-    {
-      "projectID": 663125,
-      "fileID": 4507671,
-      "required": true,
-      "__meta": {
-        "name": "TexTrue's Rubidium Options",
-        "dependencies": [
-          574856
         ]
       }
     },
