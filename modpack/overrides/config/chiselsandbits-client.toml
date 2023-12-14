@@ -99,5 +99,5 @@
 
 	[gui.radial-menu]
 		#Should the mouse indicator be rendered?
-		display-mouse-indicator = false
+		display-mouse-indicator = true
 

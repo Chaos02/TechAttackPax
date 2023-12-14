@@ -4,3 +4,17 @@ pax.exe
 libssl*.dll
 libcrypto*.dll
 cacert.pem
+
+modpack/overrides/config/voicechat/
+
+modpack/overrides/config/brandon3055/contributors.json
+
+modpack/overrides/config/brandon3055/contributors.json.etag
+
+modpack/overrides/config/brandon3055/servers/
+
+modpack/overrides/config/forgeendertech/cached.dat
+
+modpack/overrides/config/jei/world/
+
+modpack/overrides/config/titanium/titanium-1.toml.bak

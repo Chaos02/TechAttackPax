@@ -46,15 +46,8 @@
     "slurry": true,
     "energy": true
   },
-  "create": {
-    "contraption_inv": true,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "placard": true
-  },
   "jade": {
-    "block_states": false,
+    "block_states": true,
     "entity_armor": true,
     "registry_name": false,
     "item_mod_name": false,
@@ -63,12 +56,6 @@
   },
   "mcjtylib": {
     "jadeaddons": true
-  },
-  "securitycraft": {
-    "showowner": true,
-    "showmodules": true,
-    "showpasswords": true,
-    "showcustomname": true
   },
   "fruittrees": {
     "bee": true
